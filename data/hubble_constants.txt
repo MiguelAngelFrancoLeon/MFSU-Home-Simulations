@@ -1,0 +1,3 @@
+Early: 67.24 ± 0.35 (SPT-3G + ACT)
+Late: 73.0 ± 1.0 (SHOES + JWST)
+Forecast: 68.5 ± 0.2 (CMB-S4)
