@@ -27,7 +27,7 @@ For full details and theory: [Empirical Validation of MFSU on Zenodo](https://ze
 
 ## Contribute or Contact
 - Replicate and share your results! If you find improvements or applications (e.g., in AI or materials), open a pull request.
-- Questions? Contact me on X: @yourusername (replace with your handle).
+- Questions? Contact me on X: @miguelAfrancoL.
 - Inspired by fractal pioneers like Mandelbrot—let's build the future of cosmology together!
 
 License: MIT (free to use, modify, and share with credit).
