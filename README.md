@@ -23,7 +23,7 @@ This is designed for anyone to try at home—replicate the simulations, estimate
 All codes are reproducible and based on the manuscript. Results should match the empirical validation, e.g., δ_F ≈ 0.92 and resolved H0 ≈ 73 km/s/Mpc.
 
 ## Link to Manuscript
-For full details and theory: [Empirical Validation of MFSU on Zenodo](https://zenodo.org/records/16353348) (285+ downloads already!).
+For full details and theory: [Empirical Validation of MFSU on Zenodo](https://zenodo.org/records/16353348).
 
 ## Contribute or Contact
 - Replicate and share your results! If you find improvements or applications (e.g., in AI or materials), open a pull request.
